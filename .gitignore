@@ -16,7 +16,8 @@
 
 # Build / Maven
 /target/
-/.mvn/
+/.mvn/*
+!/.mvn/wrapper/
 
 # Logs
 *.log
